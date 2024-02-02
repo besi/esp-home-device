@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "esp32-pico-kit")(type "KiCad")(uri "${KIPRJMOD}/lib/esp32-pico-kit/esp32-pico-kit.pretty")(options "")(descr ""))
+)
